@@ -50,10 +50,42 @@ Boxplots on Figure b shows evidence scores calulated for variant calling results
 GapJumepr V01   
 
 
+![project presentation slide](Summary/manual_png/01.png)
+![project presentation slide](Summary/manual_png/02.png)
+![project presentation slide](Summary/manual_png/03.png)
+![project presentation slide](Summary/manual_png/04.png)
+![project presentation slide](Summary/manual_png/05.png)
+![project presentation slide](Summary/manual_png/06.png)
+![project presentation slide](Summary/manual_png/07.png)
+![project presentation slide](Summary/manual_png/08.png)
+![project presentation slide](Summary/manual_png/09.png)
+![project presentation slide](Summary/manual_png/10.png)
 
+![project presentation slide](Summary/manual_png/11.png)
+![project presentation slide](Summary/manual_png/12.png)
+![project presentation slide](Summary/manual_png/13.png)
+![project presentation slide](Summary/manual_png/14.png)
+![project presentation slide](Summary/manual_png/15.png)
+![project presentation slide](Summary/manual_png/16.png)
+![project presentation slide](Summary/manual_png/17.png)
+![project presentation slide](Summary/manual_png/18.png)
+![project presentation slide](Summary/manual_png/19.png)
+![project presentation slide](Summary/manual_png/20.png)
 
+![project presentation slide](Summary/manual_png/21.png)
+![project presentation slide](Summary/manual_png/22.png)
+![project presentation slide](Summary/manual_png/23.png)
+![project presentation slide](Summary/manual_png/24.png)
+![project presentation slide](Summary/manual_png/25.png)
+![project presentation slide](Summary/manual_png/26.png)
+![project presentation slide](Summary/manual_png/27.png)
+![project presentation slide](Summary/manual_png/28.png)
+![project presentation slide](Summary/manual_png/29.png)
+![project presentation slide](Summary/manual_png/30.png)
 
-
+![project presentation slide](Summary/manual_png/31.png)
+![project presentation slide](Summary/manual_png/32.png)
+![project presentation slide](Summary/manual_png/33.png)
 
 
 
