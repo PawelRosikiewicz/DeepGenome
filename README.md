@@ -23,7 +23,14 @@ Flexible pipeline for integration and uncertainty estimation of variant calling 
 ![poster slide1](gapjumper/Summary/posterimages/Screenshot%202022-06-17%20at%2006.24.12.png)
 
 * __GapJumper was used in several projects, here is one example:__ 
+
+APPLICATION EXAMPLE 1.  __IDENTIFICATION OF RELIABLE GENETIC MARKERS__
 ![poster slide1](gapjumper/Summary/posterimages/Screenshot%202022-06-17%20at%2006.24.34.png)
+
+APPLICATION EXAMPLE 2.
+![poster slide1](gapjumper/Summary/posterimages/production_of_Biofertilizers.jpeg)
+
+
 
 ---
 # PART 2 - DESCIPTION - INTERMEDIATE LEVEL - MORE DETAILS
