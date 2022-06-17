@@ -3,13 +3,30 @@ Flexible pipeline for integration and uncertainty estimation of variant calling 
 
 ![project presentation slide](gapjumper/Summary/00_SimpleAI_project.png)
 
-##  GAPJUMPER APLICATIONS
-* identification of reliable genetic markers in large and heterogenous datasets
-* quality evaluation of variants detected in different samples, sample sets or replicates
-* evaluation of results obtained with other methods, such as genetic markers selected with large screening studies,
-* benchmarking, and SNV calling pipeline development,  
-* non-regression tests for sequencing and genotyping pielines,  
+##  GAPJUMPER MAIN APLICATIONS
+* __identification of reliable genetic markers__ in large and heterogenous datasets
+* __quality evaluation of variants__ detected in different samples, sample sets or replicates
+* __evaluation of results__ obtained with other methods, such as genetic markers selected with large screening studies,
+* __benchmarking, and SNV calling pipeline development__  
+* __non-regression tests__ for sequencing and genotyping pielines,  
 
+## GENERAL INFORMATION
+
+* __The problems adressed with GapJumper__  
+![poster slide1](gapjumper/Summary/posterimages/Screenshot%202022-06-17%20at%2006.23.38.png)
+
+* __What it is doing?__  
+![poster slide1](gapjumper/Summary/posterimages/Screenshot%202022-06-17%20at%2006.23.46.png)
+![poster slide1](gapjumper/Summary/posterimages/Screenshot%202022-06-17%20at%2006.24.02.png)
+
+* __GapJumper was benchmarked with empirical and simulated data__  
+![poster slide1](gapjumper/Summary/posterimages/Screenshot%202022-06-17%20at%2006.24.12.png)
+
+* __GapJumper was used in several projects, here is one example:__ 
+![poster slide1](gapjumper/Summary/posterimages/Screenshot%202022-06-17%20at%2006.24.34.png)
+
+---
+# PART 2 - DESCIPTION - INTERMEDIATE LEVEL - MORE DETAILS
 ---
 ## HOW IT WORKS?
 GapJumper, is an open source pipeline (GNU License) that allows integration and analysis of variant calling data obtained from multiple replicates, samples and softwares (see figure below). It allows estimation of uncertainty associated with each nucleotide in integrated data, without making assumption on the ploidy or the level of genetic heterogeneity in each sample and replicate. The evidence scores assigned to each nucleotide reflects the error rate, the amount of missing data, and the reproducibility of the results in empirical data only. 
